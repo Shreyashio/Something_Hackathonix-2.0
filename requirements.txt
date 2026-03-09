@@ -1,0 +1,32 @@
+# CareerAI Backend — Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# Web Framework
+fastapi==0.111.0
+uvicorn[standard]==0.30.1
+
+# Database
+sqlalchemy==2.0.30
+
+# Auth
+passlib[bcrypt]==1.7.4
+python-jose[cryptography]==3.3.0
+
+# Data validation
+pydantic[email]==2.7.1
+
+# AI / LLM
+groq==0.9.0
+
+# File parsing
+pdfplumber==0.11.0
+python-multipart==0.0.9
+
+# GitHub integration
+PyGithub==2.3.0
+
+# NLP
+spacy==3.7.5
+
+# HTTP requests
+httpx==0.27.0
