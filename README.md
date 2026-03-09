@@ -65,7 +65,7 @@ AI Roadmap fills the skill gaps for unqualified listings
 ## 📁 Project Structure
 
 ```
-intern-match/
+career-platform/
 ├── backend/
 │   ├── main.py                   # FastAPI entry point
 │   ├── database.py               # SQLAlchemy engine
