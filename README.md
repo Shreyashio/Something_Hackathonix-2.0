@@ -1,4 +1,4 @@
-#  InternMatch — Smart Internship Portal with Skill Matching
+#  CareerAI — Smart Internship Portal with Skill Matching
 
 > *Bridging the gap between student potential and industry opportunity through AI-powered skill matching.*
 
@@ -8,7 +8,7 @@
 
 Students and fresh graduates struggle to find internships that align with their actual skills, while companies receive hundreds of irrelevant applications. Traditional portals rely on manual searching with no intelligent filtering — resulting in mismatches, wasted time, and missed opportunities on both sides.
 
-**InternMatch** solves this by automatically analyzing a student's resume, extracting their skills, and matching them to internships based on real job requirements — not just keywords.
+**CareerAI** solves this by automatically analyzing a student's resume, extracting their skills, and matching them to internships based on real job requirements — not just keywords.
 
 ---
 
